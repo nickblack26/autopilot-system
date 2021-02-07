@@ -9,10 +9,12 @@
 
 class Plane : public FixedWing {
 public:
+
     bool begin_pre_flight();
     void get_status();
     void cal_sensors();
     void get_init_state();
+    
 private:
 
 };
