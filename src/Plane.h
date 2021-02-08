@@ -14,9 +14,9 @@ public:
     void get_status();
     void cal_sensors();
     void get_init_state();
-    
-private:
 
+private:    
+    
 };
 
 void Plane::cal_sensors() {

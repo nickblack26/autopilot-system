@@ -14,5 +14,3 @@ void loop (void) {
   plane.get_status();
   delay(2000);
 }
-
-
